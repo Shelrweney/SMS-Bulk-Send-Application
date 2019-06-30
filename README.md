@@ -1,4 +1,4 @@
-# SMS-Bulk-Send-Application is appliction writtien by JAVA can integrate with any API provider (hear vodafone) and create SMS text form databases or files  and send thosand of SMS to thosand of Clients at the same time 
+# SMS-Bulk-Send-Application is appliction writtien by JAVA can integrate with any API provider (here vodafone) and create SMS text form databases or files  and send thosand of SMS to thosand of Clients at the same time 
 
 package Vodafone;
 
